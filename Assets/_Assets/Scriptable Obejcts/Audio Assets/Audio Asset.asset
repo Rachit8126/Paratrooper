@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a945f8eeddc76740b7ff179df49dbee, type: 3}
+  m_Name: Audio Asset
+  m_EditorClassIdentifier: 
+  ExplosionSFX: {fileID: 8300000, guid: b7bd3b184f99e144aac7740e164725ab, type: 3}
+  ShootSFX: {fileID: 8300000, guid: da8551922ada711498d27c898e7a0de1, type: 3}
+  GameOverSFX: {fileID: 8300000, guid: c7f137d1f120c864db6293b301e95cf6, type: 3}
