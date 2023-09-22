@@ -158,7 +158,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0, y: -190}
-  m_SizeDelta: {x: 1329.4846, y: 227.25482}
+  m_SizeDelta: {x: 1559.992, y: 227.2548}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &47195718
 MonoBehaviour:
@@ -182,8 +182,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Paratrooper
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2491f630b25b0a843a66089da2fe74f9, type: 2}
+  m_sharedMaterial: {fileID: -4933526673258078012, guid: 2491f630b25b0a843a66089da2fe74f9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -316,8 +316,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Start
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2491f630b25b0a843a66089da2fe74f9, type: 2}
+  m_sharedMaterial: {fileID: -4933526673258078012, guid: 2491f630b25b0a843a66089da2fe74f9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -427,7 +427,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -19, y: 150}
+  m_AnchoredPosition: {x: -19, y: 130}
   m_SizeDelta: {x: 595.4587, y: 115.720215}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &486892733
@@ -546,8 +546,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000076293945, y: 10}
-  m_SizeDelta: {x: 1626.3845, y: 440.8842}
+  m_AnchoredPosition: {x: 0, y: 10}
+  m_SizeDelta: {x: 1834.5845, y: 440.8842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &573797732
 MonoBehaviour:
@@ -586,8 +586,8 @@ MonoBehaviour:
 
     Game will get difficult as you progress.'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2491f630b25b0a843a66089da2fe74f9, type: 2}
+  m_sharedMaterial: {fileID: -4933526673258078012, guid: 2491f630b25b0a843a66089da2fe74f9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -611,8 +611,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
+  m_fontSize: 48
+  m_fontSizeBase: 48
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

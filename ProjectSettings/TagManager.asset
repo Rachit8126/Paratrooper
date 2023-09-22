@@ -44,3 +44,6 @@ TagManager:
   - name: Turret
     uniqueID: 2788203457
     locked: 0
+  - name: Trooper
+    uniqueID: 1876169919
+    locked: 0
